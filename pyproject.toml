@@ -1,0 +1,16 @@
+[project]
+name = "character-creation-module"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asciimatics>=1.15.0",
+    "flake8>=7.3.0",
+    "flake8-broken-line>=1.0.0",
+    "flake8-isort>=7.0.0",
+    "flake8-return>=1.2.0",
+    "mypy>=1.18.2",
+    "pep8-naming>=0.15.1",
+    "pytest>=8.4.2",
+]
